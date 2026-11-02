@@ -12,7 +12,7 @@ clean there with leak detection off, and the leak targets should be run on Codes
 
 ## Experience
 
-TODO: Describe your experience with the project (struggles, breakthroughs, etc.).
+Honestly, I thought this project was pretty easy. I used Claude code to implement it, I had it plan it out first, it made a great plan, and I let it go.
 
 ## Design
 
@@ -62,6 +62,3 @@ the assignment, several routes matching one address, the same table added in a d
 order, a table with no default route, and a table file with a bad line in the middle.
 `make report` shows 100% line and branch coverage of `src/lab.c`.
 
-## Analysis
-
-TODO: remove this section if not needed.
